@@ -34,19 +34,5 @@
                 <version>3.3.2</version>
             </plugin>
         </plugins>
-  </build>
-      <distributionManagement>
-        <snapshotRepository>
-            <id>nexus</id>
-            <url>http://192.168.232.251:8081/repository/kishor-maven-snapshot/</url>
-        </snapshotRepository>
-        <repository>
-            <id>nexus</id>
-            <url>http://192.168.232.251:8081/repository/kishor-maven/</url>
-        </repository>
-    </distributionManagement>
-
-  
-  
-  
+  </build>  
 </project>
